@@ -18,12 +18,11 @@ Tech Stack:
 - Netlify Functions
 - Fantasy Premier League API
 
-Link: nuiluafpl.netlify.app
+Link: [nuiluafpl.netlify.app](https://nuiluafpl.netlify.app/)
 
 Local Development: 
 npm install
 netlify dev
 
-Notes
-
+Notes:
 This project uses unofficial Fantasy Premier League API endpoints and is intended for personal/private league use.
