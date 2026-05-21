@@ -12,23 +12,18 @@ Features:
 - Real-time FPL API integration
 - Manager Profile
   
-Tech Stack
-Vanilla JavaScript
-HTML5 Canvas
-Netlify Functions
-Fantasy Premier League API
-Live Demo
+Tech Stack:
+- Vanilla JavaScript
+- HTML5 Canvas
+- Netlify Functions
+- Fantasy Premier League API
 
-Add your Netlify URL here.
+Link: nuiluafpl.netlify.app
 
-Local Development
+Local Development: 
 npm install
 netlify dev
-Deploy
 
-Optimized for deployment on:
-
-Netlify
 Notes
 
 This project uses unofficial Fantasy Premier League API endpoints and is intended for personal/private league use.
